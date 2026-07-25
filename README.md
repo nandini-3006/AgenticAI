@@ -1,4 +1,3 @@
-1. LangChain LLM Chain
 # LangChain LLM Chain
 
 Built my first LLM pipeline using LangChain.
@@ -11,7 +10,6 @@ Instead of calling the model directly, I learned how prompts, language models, a
 - Prompt engineering basics
 - Chaining components using LCEL
 - Parsing model responses
-2. LangGraph Chatbot
 # LangGraph Chatbot
 
 A simple chatbot built to understand how LangGraph manages AI workflows.
@@ -37,7 +35,6 @@ A collection of small experiments to understand what happens inside an LLM befor
 - TF-IDF retrieval
 - Attention mechanism
 - Structured outputs
-4. PDF RAG Chatbot
 # PDF RAG Chatbot
 
 Built a chatbot that answers questions from a PDF instead of relying only on the model's knowledge.
@@ -50,7 +47,6 @@ This project helped me understand the complete Retrieval-Augmented Generation (R
 - Embedding generation
 - Semantic search
 - Context-aware response generation
-5. Multi-Agent AI Travel Planner
 # Multi-Agent AI Travel Planner
 
 A practice project to understand how multiple AI agents can collaborate to solve a single task.
